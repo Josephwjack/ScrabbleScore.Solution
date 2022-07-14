@@ -13,13 +13,7 @@ namespace ScrabbleScore
     string description = Console.ReadLine();
     Scrabble newScrabble = new Scrabble(description);
     string result = newScrabble.Description;
-    // char[] uInput = userInput.ToCharArray();
-    // Console.WriteLine(uInput);
-    // Console.WriteLine(Scrabble.letters["G"]);
-    // Scrabble.GetValue();
     Scrabble.IsPalindrome(result);
-//Pneumonoultramicroscopicsilicovolcanoconiosis
-    
     }
   }
 }
