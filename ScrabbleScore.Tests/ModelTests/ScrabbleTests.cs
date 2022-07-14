@@ -9,6 +9,7 @@ namespace ScrabbleScore.Tests
   {
     // public void Dispose()
     // {
+
     //   ClassName.ClearAll();
     // }
 
